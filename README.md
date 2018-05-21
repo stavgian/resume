@@ -31,6 +31,8 @@
 
 #### Education
 - Technological  Educational Institute of Crete  / Software engineering diploma
-*Sep 2003 - Feb 2010  | Heraklion, GR*
+
+    *Sep 2003 - Feb 2010  | Heraklion, GR*
 - Technical Professional School / Informatics technology  diploma
-  *Sep 2000-June 2003 | Rethymnon, GR* 
+
+    *Sep 2000-June 2003 | Rethymnon, GR* 
